@@ -1,0 +1,22 @@
+# Pretty URLs for Moodle (local development)
+# /moodle/course/<slug>  -> /moodle/course/view.php?id=<id>
+# /moodle/admin          -> /moodle/admin/search.php
+# /moodle/dashboard      -> /moodle/my/
+# /moodle/courses        -> /moodle/course/index.php
+
+RewriteEngine On
+RewriteBase /moodle/
+
+# Shortcuts (before the file/directory check, because these are real dirs).
+RewriteRule ^admin/?$ /moodle/admin/search.php [R=302,L]
+RewriteRule ^dashboard/?$ /moodle/my/ [R=302,L]
+RewriteRule ^courses/?$ /moodle/course/index.php [R=302,L]
+RewriteRule ^course/?$ /moodle/course/index.php [R=302,L]
+
+# Do not touch existing files/directories.
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Course slug router.
+RewriteRule ^course/([A-Za-z0-9._-]+)/?$ pretty.php?type=course&slug=$1 [L,QSA]
