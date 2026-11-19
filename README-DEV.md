@@ -183,18 +183,3 @@ Karena DB tidak di-merge:
 | Theme tampil tanpa CSS | `php admin/cli/build_theme_css.php --themes=mb2nl` lalu purge cache |
 
 ---
-
-## 7. Pretty URL (slug)
-
-Ditambahkan .htaccess + public/pretty.php:
-
-| URL rapi | Diarahkan ke |
-|---|---|
-| /moodle/course/asana-pm-2026 | /moodle/course/view.php?id=5 (301) |
-| /moodle/course/<slug-fullname> | course yang cocok (301) |
-| /moodle/courses atau /moodle/course | daftar course |
-| /moodle/dashboard | /moodle/my/ |
-| /moodle/admin | /moodle/admin/search.php |
-
-Slug dicocokkan (case-insensitive) dengan **shortname**, **idnumber**, atau **fullname**
-yang di-slug-kan. Tidak perlu mengubah link di dalam Moodle; URL iew.php?id= tetap berfungsi.
