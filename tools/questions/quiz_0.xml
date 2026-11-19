@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="multichoice">
+  <name><text>PT01</text></name>
+  <questiontext format="0"><text>Apa definisi paling tepat dari sebuah project?
+_____
+#### Project bersifat sementara dan menghasilkan output unik, berbeda dari operasional rutin yang berulang.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Usaha sementara yang menghasilkan produk, layanan, atau hasil unik</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Pekerjaan rutin harian yang berulang tanpa batas waktu</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Kumpulan tugas tanpa tenggat dan tanpa pemilik</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Aktivitas yang selalu berjalan bersamaan di semua tim</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>PT02</text></name>
+  <questiontext format="0"><text>Dalam struktur Asana, unit kerja paling kecil yang biasanya dikerjakan satu orang adalah...
+_____
+#### Task bisa dipecah menjadi subtask; subtask adalah unit kerja paling kecil yang dapat di-assign.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Subtask</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Project</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Portfolio</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Workspace</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="shortanswer">
+  <name><text>PT03</text></name>
+  <questiontext format="0"><text>Satu task di Asana hanya boleh memiliki satu assignee.
+_____
+#### Satu task memiliki satu assignee utama. Jika pekerjaan perlu dibagi, gunakan subtask atau beberapa task.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <usecase>0</usecase>
+  <answer fraction="100" format="0"><text>FALSE</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>PT04</text></name>
+  <questiontext format="0"><text>Apa fungsi utama My Tasks di Asana?
+_____
+#### My Tasks adalah ruang pribadi setiap pengguna untuk melihat tugas yang di-assign kepadanya.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Menampilkan daftar task milik pengguna yang login beserta prioritas dan tenggatnya</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menyimpan arsip seluruh project yang sudah selesai</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengatur tagihan dan anggaran project</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menjadi tempat menyimpan file desain tim</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>PT05</text></name>
+  <questiontext format="0"><text>Section di dalam sebuah project berfungsi untuk...
+_____
+#### Section membantu membaca struktur pekerjaan, misalnya To Do, In Progress, Review, Done.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Mengelompokkan task berdasarkan tahap, kategori, atau alur kerja</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menggantikan fungsi due date</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menyimpan komentar saja</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Membatasi jumlah anggota project</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="shortanswer">
+  <name><text>PT06</text></name>
+  <questiontext format="0"><text>Timeline view di Asana hanya dapat menampilkan task yang memiliki tanggal.
+_____
+#### Timeline berbasis tanggal, sehingga task tanpa due date atau tanggal mulai tidak akan muncul di garis waktu.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <usecase>0</usecase>
+  <answer fraction="100" format="0"><text>TRUE</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>PT07</text></name>
+  <questiontext format="0"><text>Dalam kerangka RACI, huruf C berarti...
+_____
+#### RACI: Responsible, Accountable, Consulted, Informed. Consulted adalah pihak yang dimintai pendapat dua arah.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Consulted, pihak yang dimintai masukan sebelum keputusan diambil</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Checked, pihak yang memeriksa kualitas hasil akhir</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Coordinator, pihak yang mengatur jadwal rapat</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Customer, pihak yang menerima produk</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>PT08</text></name>
+  <questiontext format="0"><text>Apa yang membedakan milestone dari task biasa?
+_____
+#### Milestone adalah penanda pencapaian tanpa durasi, dipakai untuk menandai fase penting seperti go-live.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Milestone menandai titik pencapaian penting dan tidak punya durasi kerja</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Milestone selalu memiliki subtask lebih dari sepuluh</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Milestone hanya bisa dibuat oleh administrator workspace</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Milestone tidak bisa diberi tanggal</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>PT09</text></name>
+  <questiontext format="0"><text>Inbox di Asana terutama digunakan untuk...
+_____
+#### Inbox merangkum notifikasi yang relevan bagi Anda agar tidak ada update penting yang terlewat.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Melihat notifikasi aktivitas yang melibatkan Anda, seperti mention dan update task</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menyimpan file lampiran project</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengelola faktur vendor</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Membuat laporan keuangan</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>PT10</text></name>
+  <questiontext format="0"><text>Dependency antar task di Asana berguna untuk...
+_____
+#### Dependency membantu mengurutkan pekerjaan dan mencegah task dikerjakan terlalu dini.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Menandai bahwa suatu task baru bisa dikerjakan setelah task lain selesai</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menghapus task yang tidak diperlukan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menggandakan task ke project lain secara otomatis</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengubah assignee secara acak</text><feedback format="0"><text></text></feedback></answer>
+</question>
+</quiz>

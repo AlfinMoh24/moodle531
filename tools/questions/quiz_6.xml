@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="multichoice">
+  <name><text>T01</text></name>
+  <questiontext format="0"><text>Dalam Workload view, anggota dengan beban 140% menandakan...
+_____
+#### Kelebihan beban adalah masalah penugasan, bukan prestasi.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Kelebihan penugasan yang perlu diseimbangkan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Produktivitas tinggi yang harus dipertahankan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Kesalahan data yang bisa diabaikan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Anggota tersebut harus dikeluarkan dari project</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>T02</text></name>
+  <questiontext format="0"><text>Tujuan utama membuat status update proyek adalah...
+_____
+#### Update tanpa keputusan tidak menambah nilai.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Memicu keputusan dan menunjukkan hambatan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Melaporkan jumlah komentar</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menampilkan seluruh riwayat task</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengganti rapat mingguan</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>T03</text></name>
+  <questiontext format="0"><text>Risiko dengan kemungkinan tinggi dan dampak tinggi sebaiknya...
+_____
+#### Prioritas mitigasi mengikuti skor risiko.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Memiliki rencana mitigasi dan pemantauan berkala</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Diabaikan sampai terjadi</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Diserahkan ke tim lain</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Dihapus dari daftar risiko</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>T04</text></name>
+  <questiontext format="0"><text>Portfolio view berbeda dari project view karena...
+_____
+#### Portfolio bekerja di level program.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Memantau kesehatan pada tingkat kumpulan project</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menampilkan subtask lebih detail</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menyimpan komentar pribadi</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengatur hak akses workspace</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>T05</text></name>
+  <questiontext format="0"><text>Key result yang baik bersifat...
+_____
+#### Tanpa ukuran, OKR kehilangan makna.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Terukur dan dapat diverifikasi</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Bebas ditafsirkan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Hanya berupa daftar task</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Berubah setiap pekan</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>T06</text></name>
+  <questiontext format="0"><text>Jika sebuah task terlambat dan menjadi dependency bagi tiga task lain, langkah pertama adalah...
+_____
+#### Dampak harus dipahami sebelum tindakan.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Mengukur dampak keterlambatan pada ketiga task tersebut</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menghapus dependency</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengganti seluruh assignee</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menutup project</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>T07</text></name>
+  <questiontext format="0"><text>Empat kalimat status update yang sehat mencakup...
+_____
+#### Struktur ini memaksa kejelasan.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Selesai, berikutnya, hambatan, keputusan yang dibutuhkan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Anggaran, pajak, faktur, vendor</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Nama section, warna, ikon, tag</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Jumlah task, subtask, komentar, lampiran</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>T08</text></name>
+  <questiontext format="0"><text>Form intake yang baik memuat...
+_____
+#### Kelengkapan data sejak awal mengurangi iterasi.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Field wajib yang menjamin kelengkapan permintaan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Sebanyak mungkin field opsional</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Hanya nama pemohon</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Komentar bebas tanpa struktur</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>T09</text></name>
+  <questiontext format="0"><text>Approval pada task kreatif mencegah...
+_____
+#### Persetujuan tanpa jejak mudah ditarik kembali.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Pekerjaan lanjut tanpa persetujuan yang tercatat</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Komentar pada task</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Penggunaan lampiran</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Pembuatan subtask</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>T10</text></name>
+  <questiontext format="0"><text>Metrik dashboard sebaiknya berjumlah...
+_____
+#### Fokus lebih bernilai daripada kelengkapan.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Sedikit dan masing-masing memicu keputusan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Sebanyak mungkin agar lengkap</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Berubah setiap hari</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Tidak pernah ditinjau</text><feedback format="0"><text></text></feedback></answer>
+</question>
+</quiz>

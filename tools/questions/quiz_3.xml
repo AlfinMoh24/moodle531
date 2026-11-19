@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="multichoice">
+  <name><text>Q3-01</text></name>
+  <questiontext format="0"><text>Praktik terbaik mencatat keputusan proyek adalah...
+_____
+#### Komentar task menjaga konteks tetap melekat pada pekerjaan.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Menuliskannya di komentar task terkait</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menyimpannya di chat pribadi</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengingatnya tanpa dokumentasi</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menuliskannya di deskripsi workspace saja</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q3-02</text></name>
+  <questiontext format="0"><text>Mention sebaiknya digunakan untuk...
+_____
+#### Mention berlebihan membuat notifikasi diabaikan.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Orang yang perlu bertindak atau memberi keputusan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Semua anggota workspace</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Orang yang tidak terlibat proyek</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Diri sendiri</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q3-03</text></name>
+  <questiontext format="0"><text>Peran yang hanya dapat berkomentar tanpa mengubah task adalah...
+_____
+#### Commenter cocok untuk reviewer eksternal.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Commenter</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Editor</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Project admin</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Owner workspace</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q3-04</text></name>
+  <questiontext format="0"><text>Sebelum membagikan tautan project ke pihak luar, hal yang wajib diperiksa adalah...
+_____
+#### Tautan publik dapat membocorkan data jika tidak diperiksa.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Hak akses tautan dan keberadaan data sensitif pada custom field</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Warna project</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Jumlah komentar</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Nama section</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q3-05</text></name>
+  <questiontext format="0"><text>Tag paling tepat dipakai untuk...
+_____
+#### Tag fleksibel tetapi sulit dilaporkan konsisten.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Penanda sementara lintas section</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Pengganti seluruh custom field</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menyimpan password</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengatur hak akses</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q3-06</text></name>
+  <questiontext format="0"><text>Integrasi Slack pada Asana berguna terutama untuk...
+_____
+#### Keputusan tetap harus dicatat di task.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Mengirim notifikasi dan membuat task dari pesan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengganti seluruh struktur project</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menyimpan berkas desain</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengatur anggaran</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q3-07</text></name>
+  <questiontext format="0"><text>Approval formal diperlukan ketika...
+_____
+#### Persetujuan lisan mudah ditarik kembali tanpa jejak.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Ada pihak yang harus menyatakan setuju sebelum pekerjaan berlanjut</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Tim ingin menambah komentar</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Task tidak punya assignee</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Section ingin dihapus</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q3-08</text></name>
+  <questiontext format="0"><text>Proofing bermanfaat karena...
+_____
+#### Proofing membuat masukan desain presisi.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Komentar menempel pada bagian desain tertentu</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menghapus kebutuhan reviewer</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menggandakan task otomatis</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengubah due date</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q3-09</text></name>
+  <questiontext format="0"><text>Menyimpan lampiran di Google Drive lalu menautkannya ke task bertujuan untuk...
+_____
+#### Satu sumber kebenaran untuk file, tautan sebagai konteks.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Menjaga kepemilikan file tetap jelas sambil memberi konteks pada task</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menghapus file dari Drive</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengganti komentar</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Membatasi jumlah anggota</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="shortanswer">
+  <name><text>Q3-10</text></name>
+  <questiontext format="0"><text>Sebutkan istilah peran Asana yang hanya dapat melihat project tanpa mengubah apa pun (satu kata).
+_____
+#### Jawaban: Viewer.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <usecase>0</usecase>
+  <answer fraction="100" format="0"><text>viewer</text><feedback format="0"><text></text></feedback></answer>
+</question>
+</quiz>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="multichoice">
+  <name><text>Q4-01</text></name>
+  <questiontext format="0"><text>Alasan utama memakai dropdown pada custom field adalah...
+_____
+#### Teks bebas menghasilkan variasi nilai yang merusak pelaporan.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Agar nilai konsisten dan dapat disaring serta dilaporkan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Agar task terlihat lebih panjang</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Agar komentar bertambah</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Agar due date otomatis berubah</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q4-02</text></name>
+  <questiontext format="0"><text>Rule Asana berjalan berdasarkan...
+_____
+#### Setiap rule butuh pemicu yang jelas.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Pemicu seperti perubahan section, perubahan custom field, atau due date lewat</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Jumlah komentar pada task</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Warna project</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Nama workspace</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q4-03</text></name>
+  <questiontext format="0"><text>Berapa jumlah rule yang disarankan untuk memulai otomasi?
+_____
+#### Mulai kecil agar kesalahan mudah dilacak.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Tiga rule yang terukur dampaknya</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Tiga puluh rule sekaligus</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Satu rule untuk setiap task</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Tidak ada, otomasi selalu merugikan</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q4-04</text></name>
+  <questiontext format="0"><text>Fungsi utama form intake request adalah...
+_____
+#### Form memaksa kelengkapan informasi sejak awal.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Menjadi pintu masuk permintaan dengan data wajib yang lengkap</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menghapus project lama</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengganti laporan keuangan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menyimpan password tim</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q4-05</text></name>
+  <questiontext format="0"><text>Template project paling tepat digunakan untuk...
+_____
+#### Template untuk pola yang terbukti, bukan untuk semua hal.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Pekerjaan berulang dengan pola struktur yang sama</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Setiap proyek baru tanpa kecuali</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menyimpan komentar pribadi</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengatur hak akses workspace</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q4-06</text></name>
+  <questiontext format="0"><text>Recurring task berguna untuk...
+_____
+#### Pengulangan otomatis mengurangi risiko terlupa.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Pekerjaan berkala seperti laporan mingguan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Milestone sekali pakai</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menghapus dependency</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengubah assignee otomatis</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q4-07</text></name>
+  <questiontext format="0"><text>Task approval memastikan...
+_____
+#### Approval membuat persetujuan eksplisit dan dapat diaudit.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Keputusan persetujuan tercatat sebelum pekerjaan berlanjut</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Semua task selesai tepat waktu</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Tidak ada komentar pada task</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Custom field terhapus</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q4-08</text></name>
+  <questiontext format="0"><text>Rule yang terlalu banyak menimbulkan risiko...
+_____
+#### Kompleksitas otomasi harus dikelola.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Sulit dilacak saat terjadi kesalahan atau efek tak terduga</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Task otomatis terhapus semua</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Workspace tidak bisa dibuka</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Anggota kehilangan akun</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q4-09</text></name>
+  <questiontext format="0"><text>Contoh rule yang bernilai tinggi adalah...
+_____
+#### Eskalasi otomatis mencegah task terlupakan.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Saat due date lewat dan belum selesai, mention pemilik dan beri penanda</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Saat task dibuat, ubah warnanya menjadi merah</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Saat komentar ditambah, hapus lampiran</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Saat section ditambah, hapus milestone</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q4-10</text></name>
+  <questiontext format="0"><text>Bundle dalam Asana adalah...
+_____
+#### Bundle menyederhanakan penggunaan banyak template.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Kumpulan beberapa template yang dapat dipakai bersama</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Kumpulan komentar pada satu task</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Daftar anggota workspace</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Jenis custom field khusus</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q4-11</text></name>
+  <questiontext format="0"><text>Custom field "Status Persetujuan" sebaiknya bertipe...
+_____
+#### Nilai terdefinisi membuat pelaporan mungkin dilakukan.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Pilihan tetap (dropdown) dengan nilai terdefinisi</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Teks bebas</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Lampiran gambar</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Komentar</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q4-12</text></name>
+  <questiontext format="0"><text>Otomasi sebaiknya diterapkan pada pekerjaan yang...
+_____
+#### Otomasi menggantikan pengulangan, bukan penilaian.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Berulang dan tidak membutuhkan pertimbangan manusia</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Selalu berbeda setiap kali</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Bersifat rahasia dan tidak terdokumentasi</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Belum pernah dilakukan</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q4-13</text></name>
+  <questiontext format="0"><text>Sebelum membuat template dari sebuah project, syaratnya adalah...
+_____
+#### Template menyebarkan pola yang sudah teruji.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Struktur project sudah terbukti berhasil dipakai</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Project belum pernah dijalankan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Project tidak punya section</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Semua task tanpa assignee</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q4-14</text></name>
+  <questiontext format="0"><text>Forms membantu pelaporan karena...
+_____
+#### Konsistensi input menghasilkan data yang dapat dianalisis.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Data masuk dalam struktur field yang sama setiap kali</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menghapus kebutuhan komentar</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengganti semua rule</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Membuat task otomatis selesai</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="shortanswer">
+  <name><text>Q4-15</text></name>
+  <questiontext format="0"><text>Sebutkan istilah Asana untuk aturan otomatis berbasis pemicu (satu kata).
+_____
+#### Jawaban: Rule.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <usecase>0</usecase>
+  <answer fraction="100" format="0"><text>rule</text><feedback format="0"><text></text></feedback></answer>
+</question>
+</quiz>

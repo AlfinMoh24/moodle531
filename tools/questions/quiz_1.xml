@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<question type="multichoice">
+  <name><text>Q1-01</text></name>
+  <questiontext format="0"><text>Manakah urutan fase proyek yang paling tepat?
+_____
+#### Monitoring berjalan paralel dengan eksekusi, dan penutupan selalu menjadi fase terakhir.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Inisiasi, perencanaan, eksekusi, monitoring dan pengendalian, penutupan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Perencanaan, penutupan, inisiasi, eksekusi, monitoring</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Eksekusi, inisiasi, perencanaan, penutupan, monitoring</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Inisiasi, eksekusi, penutupan, perencanaan, monitoring</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q1-02</text></name>
+  <questiontext format="0"><text>Dokumen yang merumuskan tujuan, batas awal, dan sponsor proyek pada fase inisiasi disebut...
+_____
+#### Project charter adalah keluaran khas fase inisiasi.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Project charter</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Project closure report</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Risk register</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>RACI matrix</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="shortanswer">
+  <name><text>Q1-03</text></name>
+  <questiontext format="0"><text>Scope creep adalah penambahan lingkup pekerjaan secara bertahap tanpa persetujuan formal.
+_____
+#### Justru karena kecil dan berulang, scope creep sulit terdeteksi dan menggerus jadwal.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <usecase>0</usecase>
+  <answer fraction="100" format="0"><text>TRUE</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q1-04</text></name>
+  <questiontext format="0"><text>Dalam matriks RACI, peran yang menanggung jawaban akhir dan berwenang memutuskan adalah...
+_____
+#### Accountable adalah satu orang pemilik keputusan; Responsible adalah yang mengerjakan.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Accountable</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Responsible</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Consulted</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Informed</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q1-05</text></name>
+  <questiontext format="0"><text>Work Breakdown Structure (WBS) berfungsi untuk...
+_____
+#### WBS adalah dekomposisi deliverable, bukan jadwal. Jadwal dibuat setelah WBS.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Memecah deliverable menjadi paket kerja yang dapat diestimasi dan di-assign</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menghitung pajak proyek</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menyimpan notifikasi tim</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menggantikan jadwal proyek</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q1-06</text></name>
+  <questiontext format="0"><text>Satu deliverable sebaiknya memiliki berapa Accountable dalam RACI?
+_____
+#### Lebih dari satu Accountable membuat keputusan macet karena tidak ada pemilik tunggal.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Satu</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Dua</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Tiga</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Sebanyak anggota tim</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q1-07</text></name>
+  <questiontext format="0"><text>Di Asana, wadah yang merepresentasikan satu inisiatif pekerjaan dengan tujuan tertentu disebut...
+_____
+#### Project adalah wadah pekerjaan; Workspace adalah level organisasi di atasnya.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Project</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Workspace</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Subtask</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Tag</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="shortanswer">
+  <name><text>Q1-08</text></name>
+  <questiontext format="0"><text>Task tanpa due date tidak akan muncul di Timeline view.
+_____
+#### Timeline disusun berdasarkan tanggal, sehingga task tanpa tanggal tidak punya posisi di garis waktu.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <usecase>0</usecase>
+  <answer fraction="100" format="0"><text>TRUE</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q1-09</text></name>
+  <questiontext format="0"><text>Apa fungsi utama Inbox di Asana?
+_____
+#### Inbox merangkum mention, komentar, dan perubahan yang relevan bagi Anda.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Menampilkan notifikasi aktivitas yang melibatkan Anda</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menyimpan berkas project</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengatur struktur section</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menghapus task lama</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="shortanswer">
+  <name><text>Q1-11</text></name>
+  <questiontext format="0"><text>Sebutkan istilah untuk penambahan lingkup pekerjaan tanpa persetujuan formal (satu kata, bahasa Inggris).
+_____
+#### Jawaban: scope creep.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <usecase>0</usecase>
+  <answer fraction="100" format="0"><text>scope creep</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q1-12</text></name>
+  <questiontext format="0"><text>Dalam RACI, pihak yang dimintai masukan dua arah sebelum keputusan diambil adalah...
+_____
+#### Consulted memberi masukan; Informed hanya menerima informasi satu arah.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Consulted</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Informed</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Responsible</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Accountable</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q1-13</text></name>
+  <questiontext format="0"><text>Section di Asana paling tepat digunakan untuk...
+_____
+#### Section adalah lapisan pengelompokan di dalam project.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Mengelompokkan task berdasarkan fase atau status pekerjaan</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Menyimpan password project</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Mengatur tagihan vendor</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Membatasi jumlah anggota workspace</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="shortanswer">
+  <name><text>Q1-14</text></name>
+  <questiontext format="0"><text>Melibatkan tim legal dan tim dukungan pelanggan sejak awal proyek termasuk praktik stakeholder management yang baik.
+_____
+#### Pihak yang sering terlewat justru dapat memblokir hasil di akhir proyek.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <usecase>0</usecase>
+  <answer fraction="100" format="0"><text>TRUE</text><feedback format="0"><text></text></feedback></answer>
+</question>
+<question type="multichoice">
+  <name><text>Q1-15</text></name>
+  <questiontext format="0"><text>Apa keluaran khas fase penutupan proyek?
+_____
+#### Penutupan menghasilkan serah terima, dokumentasi lessons learned, dan penutupan kontrak.</text></questiontext>
+  <generalfeedback format="0"><text></text></generalfeedback>
+  <defaultgrade>1</defaultgrade>
+  <penalty>0.3333333</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <correctfeedback format="0"><text>Jawaban Anda benar.</text></correctfeedback>
+  <partiallycorrectfeedback format="0"><text>Jawaban Anda sebagian benar.</text></partiallycorrectfeedback>
+  <incorrectfeedback format="0"><text>Jawaban Anda salah.</text></incorrectfeedback>
+  <answer fraction="100" format="0"><text>Serah terima deliverable dan dokumentasi pelajaran yang dipetik</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Project charter baru</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>WBS awal</text><feedback format="0"><text></text></feedback></answer>
+  <answer fraction="0" format="0"><text>Daftar kandidat stakeholder</text><feedback format="0"><text></text></feedback></answer>
+</question>
+</quiz>
