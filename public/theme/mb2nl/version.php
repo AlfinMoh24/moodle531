@@ -24,9 +24,9 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version = 2025061214;
+$plugin->version = 2025061215;
 $plugin->requires = 2022041900; // Moodle 4+.
 $plugin->component = 'theme_mb2nl';
-$plugin->release = '11.8.2 (Moodle 4.0 - 5.3+)';
+$plugin->release = '11.8.2+ (Moodle 4.0 - 5.3+)';
 $plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = ['theme_boost' => 2018120300];
