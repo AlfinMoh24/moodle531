@@ -1,5 +1,5 @@
 # Pretty URLs for Moodle (local development)
-# /moodle/course/<slug>  -> /moodle/course/view.php?id=<id>
+# /moodle/course/<slug>  -> internally course/view.php?id=<id> (no redirect)
 # /moodle/admin          -> /moodle/admin/search.php
 # /moodle/dashboard      -> /moodle/my/
 # /moodle/courses        -> /moodle/course/index.php
@@ -13,10 +13,21 @@ RewriteRule ^dashboard/?$ /moodle/my/ [R=302,L]
 RewriteRule ^courses/?$ /moodle/course/index.php [R=302,L]
 RewriteRule ^course/?$ /moodle/course/index.php [R=302,L]
 
+# BEGIN PRETTY URLS
+RewriteRule ^course/moodle/?$ course/view.php?id=1 [L,QSA]
+RewriteRule ^course/moodle\-lms/?$ course/view.php?id=1 [L,QSA]
+RewriteRule ^course/themetest/?$ course/view.php?id=2 [L,QSA]
+RewriteRule ^course/theme\-test\-course/?$ course/view.php?id=2 [L,QSA]
+RewriteRule ^course/themegen/?$ course/view.php?id=3 [L,QSA]
+RewriteRule ^course/theme\-generated\-course/?$ course/view.php?id=3 [L,QSA]
+RewriteRule ^course/asana\-pm\-2026/?$ course/view.php?id=5 [L,QSA]
+RewriteRule ^course/training\-project\-management\-dan\-task\-collaboration\-menggunakan\-asana\-dari\-beginner\-hingga\-advanced/?$ course/view.php?id=5 [L,QSA]
+# END PRETTY URLS
+
 # Do not touch existing files/directories.
 RewriteCond %{REQUEST_FILENAME} -f [OR]
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule ^ - [L]
 
-# Course slug router.
+# Fallback for slugs that are not in the generated list (301 to view.php).
 RewriteRule ^course/([A-Za-z0-9._-]+)/?$ pretty.php?type=course&slug=$1 [L,QSA]
