@@ -8,11 +8,13 @@ Tested with PHP 8.4 / MariaDB 11.4 on XAMPP (Windows).
 Changes made
 ------------
 1. scss/style.scss
-   Added import of Boost 5.3 design-system legacy tokens:
-       @import '../../boost/scss/design-system-tokens';
-   Without it the theme SCSS failed to compile ("Undefined variable
-   $mds-spacing-md" in boost/scss/moodle/course.scss) and Moodle served only
-   the parent Boost CSS, so every page appeared unstyled.
+   Import the Boost 5.3 design system (legacy SCSS variables + CSS custom
+   properties):
+       @import '../../boost/scss/design-system';
+   Without the legacy variables the theme SCSS failed to compile ("Undefined
+   variable $mds-spacing-md") and Moodle served only the parent Boost CSS.
+   Without the CSS custom properties (--mds-*) dialogs such as the file picker
+   had a transparent background and a broken header.
 
 2. lib/lib_menu.php
    user_get_user_navigation_info() is deprecated in Moodle 5.3.

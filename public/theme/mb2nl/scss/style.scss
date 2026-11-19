@@ -1,6 +1,8 @@
 
-// Design system legacy tokens (required by Boost 5.3 partials).
-@import '../../boost/scss/design-system-tokens';
+// Moodle Design System (legacy SCSS variables + CSS custom properties).
+// Boost 5.3 partials rely on both; without the CSS variables dialogs such as
+// the file picker get a transparent background.
+@import '../../boost/scss/design-system';
 
 // Variables
 @import 'vars';
