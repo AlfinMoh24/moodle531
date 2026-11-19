@@ -63,9 +63,9 @@ if (empty($id)) {
         }
     }
     $PAGE->set_url($url);
-    $PAGE->set_title($course->shortname . ": " . format_string($att->name, true, ['context' => $context]));
+    $PAGE->set_title($course->shortname . ": " . $att->name);
     $PAGE->set_heading($course->fullname);
-    $PAGE->navbar->add(format_string($att->name, true, ['context' => $context]));
+    $PAGE->navbar->add($att->name);
 
     $output = $PAGE->get_renderer('mod_attendance');
     echo $output->header();
