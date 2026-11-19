@@ -124,7 +124,10 @@ $pages = [
 
 // General section.
 make_mod($course, 0, 'attendance', 'Attendance', ['grade' => 100]);
-make_mod($course, 0, 'forum', 'Announcements', ['type' => 'news', 'forcesubscribe' => 1]);
+$hasnewsforum = $DB->record_exists_sql("SELECT 1 FROM {forum} WHERE course = ? AND type = 'news'", [$course->id]);
+if (!$hasnewsforum) {
+    make_mod($course, 0, 'forum', 'Announcements', ['type' => 'news', 'forcesubscribe' => 1]);
+}
 make_mod($course, 0, 'label', 'Selamat datang di Training Asana Project Managemen...', ['intro' => '<p>Selamat datang di Training Asana Project Management. Pelajari materi secara berurutan, kerjakan kuis, dan selesaikan capstone project.</p>', 'introformat' => FORMAT_HTML]);
 make_mod($course, 0, 'page', $pages[0][0], ['content' => t2h($pages[0][1]), 'contentformat' => FORMAT_HTML, 'printintro' => 0, 'printlastmodified' => 1, 'display' => 0, 'revision' => 1]);
 make_mod($course, 0, 'quiz', 'Pre-Test: Pemetaan Pengetahuan Awal', ['grade' => 100, 'sumgrades' => 0, 'preferredbehaviour' => 'deferredfeedback', 'attempts' => 0, 'grademethod' => 1, 'questionsperpage' => 1, 'decimalpoints' => 2, 'questiondecimalpoints' => -1, 'shuffleanswers' => 1, 'timeopen' => 0, 'timeclose' => 0, 'timelimit' => 0, 'overduehandling' => 'autoabandon', 'attemptonlast' => 0, 'correctanswershow' => 1]);
