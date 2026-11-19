@@ -1,0 +1,28 @@
+
+// Design system legacy tokens (required by Boost 5.3 partials).
+@import '../../boost/scss/design-system-tokens';
+
+// Variables
+@import 'vars';
+@import 'css_vars';
+
+// Icon fonts
+@import 'fontawesome';
+
+// Custom font icon
+@import '../assets/Lineicons/Lineicons';
+@import '../assets/remixicon/remixicon';
+@import '../assets/bootstrap-icons/bootstrap-icons';
+@import 'iconfix';
+
+@import 'bootstrap';
+@import 'moodle';
+
+@import 'mixins';
+
+@import 'moodle-custom';
+@import 'bootstrap-custom';
+
+@import 'theme';
+@import 'plugins';
+@import 'shortcodes';
