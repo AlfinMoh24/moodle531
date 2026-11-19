@@ -1,0 +1,14 @@
+# Local configuration (contains database credentials)
+/config.php
+
+# Moodle data directory is outside the web root and must never be committed
+/moodledata/
+
+# Local logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.idea/
+.vscode/
